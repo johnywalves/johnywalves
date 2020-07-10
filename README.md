@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, my name is Johny W. Alves :wave:
+
+I am a _________
+
+:computer: Web developer  
+:game_die: Data science student  
+:runner: Runner  
+:video_game: PC gamer  
+  
+If you want take a look at my personal website [johnywalves.com.br](https://johnywalves.com.br/)
 
 <!--
 **johnywalves/johnywalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
