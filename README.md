@@ -1,13 +1,12 @@
-### Hi, my name is Johny W. Alves :wave:
+### Hi, my name is é Johny :wave:
 
-I am a _________
+You will find me on the web as **Johny W. Alves**, I am a passionate developer, student data scientist, runner a few times a week and PC player when over time
 
-:computer: Web developer  
-:game_die: Data science student  
-:runner: Runner  
-:video_game: PC gamer  
-  
-If you want take a look at my personal website [johnywalves.com.br](https://johnywalves.com.br/)
+Feel free to explore the repositories, if you want to know more visit me at [johnywalves.com.br](https://johnywalves.com.br/)
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/johnywalves)](https://twitter.com/johnywalves)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnywalves)](https://www.linkedin.com/in/johnywalves)
+[![Steam Badge](https://img.shields.io/badge/-Steam-gray?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/mougevit/)](https://steamcommunity.com/id/mougevit/)
 
 <!--
 **johnywalves/johnywalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
