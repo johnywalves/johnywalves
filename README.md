@@ -6,7 +6,6 @@ Feel free to explore the repositories, if you want to know more visit me at [joh
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/johnywalves)](https://twitter.com/johnywalves)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnywalves)](https://www.linkedin.com/in/johnywalves)
-[![Steam Badge](https://img.shields.io/badge/-Steam-gray?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/mougevit/)](https://steamcommunity.com/id/mougevit/)
 
 <!--
 **johnywalves/johnywalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
