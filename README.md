@@ -1,4 +1,4 @@
-### Hi, my name is é Johny :wave:
+### Hi, my name is Johny :wave:
 
 You will find me on the web as **Johny W. Alves**, I am a passionate developer, student data scientist, runner a few times a week and PC player when over time
 
