@@ -1,11 +1,14 @@
 ### Hi, my name is Johny :wave:
 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/johnywalves)](https://twitter.com/johnywalves)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnywalves)](https://www.linkedin.com/in/johnywalves)
+
 You will find me on the web as **Johny W. Alves**, I am a passionate developer, student data scientist, runner a few times a week and PC player when over time
 
 Feel free to explore the repositories, if you want to know more visit me at [johnywalves.com.br](https://johnywalves.com.br/)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/johnywalves)](https://twitter.com/johnywalves)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnywalves)](https://www.linkedin.com/in/johnywalves)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johnywalves&count_private=true&hide=stars&show_icons=true&theme=vue-dark)](https://github.com/k0rgana)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnywalves&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **johnywalves/johnywalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
