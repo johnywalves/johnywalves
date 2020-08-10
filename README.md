@@ -1,7 +1,7 @@
 ### Hi, my name is Johny :wave:
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/johnywalves)](https://twitter.com/johnywalves)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnywalves)](https://www.linkedin.com/in/johnywalves)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-ed34a2?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/johnywalves)](https://twitter.com/johnywalves)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-ed34a2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnywalves)](https://www.linkedin.com/in/johnywalves)
 [![Personal Badge](https://img.shields.io/badge/-johnywalves.com.br-ed34a2?style=flat-square&logo=Gatsby&logoColor=white&link=https://www.johnywalves.com.br)](https://www.johnywalves.com.br)
 
 You will find me on the web as **Johny W. Alves**, I am a passionate developer, student data scientist, runner a few times a week and PC player when over time
