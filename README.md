@@ -8,8 +8,8 @@ You will find me on the web as **Johny W. Alves**, I am a passionate developer, 
 
 Feel free to explore the repositories, if you want to know more visit me at [johnywalves.com.br](https://johnywalves.com.br/)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=johnywalves&count_private=true&hide=issues&show_icons=true&theme=graywhite)](https://github.com/johnywalves)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnywalves&layout=compact&theme=graywhite)](https://github.com/johnywalves)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=johnywalves&count_private=true&hide=issues&show_icons=true&theme=graywhite&title_color=ed34a2)](https://github.com/johnywalves)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnywalves&layout=compact&title_color=ed34a2)](https://github.com/johnywalves)
 
 <!--
 **johnywalves/johnywalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
