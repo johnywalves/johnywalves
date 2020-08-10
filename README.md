@@ -7,7 +7,7 @@ You will find me on the web as **Johny W. Alves**, I am a passionate developer, 
 
 Feel free to explore the repositories, if you want to know more visit me at [johnywalves.com.br](https://johnywalves.com.br/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johnywalves&count_private=true&hide=stars&show_icons=true&theme=vue-dark)](https://github.com/k0rgana)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johnywalves&count_private=true&hide=stars&show_icons=true&theme=vue-dark)](https://github.com/johnywalves)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnywalves&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
