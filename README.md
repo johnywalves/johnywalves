@@ -10,6 +10,11 @@ Feel free to explore the repositories, if you want to know more visit me at [joh
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=johnywalves&count_private=true&hide=issues&show_icons=true&theme=graywhite&title_color=ed34a2)](https://github.com/johnywalves)
 
+### 📕 Latest Blog Posts (In Portuguese)
+
+<!-- BLOG:START -->
+<!-- BLOG:END -->
+
 <!--
 **johnywalves/johnywalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
