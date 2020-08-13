@@ -16,7 +16,7 @@ Feel free to explore the repositories, if you want to know more visit me at [joh
 - [Loading com CSS](https://www.johnywalves.com.br/loading-com-css/)
 - [Automação de screenshot com Selenium](https://www.johnywalves.com.br/selenium-screenshot/)
 - [Gradient Boosting Regressor com scikit-learn](https://www.johnywalves.com.br/gbr-sklearn/)
-- [Requests Pyhton](https://www.johnywalves.com.br/requests-python/)
+- [Requests Python](https://www.johnywalves.com.br/requests-python/)
 - [Happiness Radar](https://www.johnywalves.com.br/happiness-radar/)
 <!-- BLOG:END -->
 
