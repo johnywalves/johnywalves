@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: BLOG
-          feed_list: "https://johnywalves.com.br/rss.xml"
+          feed_list: "https://johnywalves.com.br/feed-posts.xml"
