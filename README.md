@@ -21,11 +21,11 @@ Feel free to explore the repositories, if you want to know more visit me at [joh
 ### :notebook: Latest Blog Posts (In Portuguese)
 
 <!-- BLOG:START -->
+- [Card Game em React (Parte 2)](https://www.johnywalves.com.br/card-game-em-react-parte-2/)
+- [Card Game em React (Parte 1)](https://www.johnywalves.com.br/card-game-em-react-parte-1/)
 - [Git - My Cheatsheet](https://www.johnywalves.com.br/git-cheatsheet/)
 - [Formatação de datas](https://www.johnywalves.com.br/formatar-datas-javascript/)
 - [Não seja motivado, seja disciplinado](https://www.johnywalves.com.br/seja-disciplicado/)
-- [Docker - My Cheatsheet](https://www.johnywalves.com.br/docker-cheatsheet/)
-- [Input estilizado](https://www.johnywalves.com.br/input-estilizado/)
 <!-- BLOG:END -->
 
 <!--
