@@ -21,11 +21,11 @@ Feel free to explore the repositories, if you want to know more visit me at [joh
 ### :notebook: Latest Blog Posts (In Portuguese)
 
 <!-- BLOG:START -->
+- [Strapi - Static com JavaScript Inline](https://www.johnywalves.com.br/strapi-static-inline-javascript/)
 - [Exemplo React](https://www.johnywalves.com.br/exemplo-react/)
 - [Partida Term.ooo](https://www.johnywalves.com.br/partida-term.ooo/)
 - [Card Game em React &lpar;Parte 1&rpar;](https://www.johnywalves.com.br/card-game-em-react-parte-1/)
 - [Git - My Cheatsheet](https://www.johnywalves.com.br/git-cheatsheet/)
-- [Formatação de datas](https://www.johnywalves.com.br/formatar-datas-javascript/)
 <!-- BLOG:END -->
 
 <!--
