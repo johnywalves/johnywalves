@@ -21,11 +21,11 @@ Feel free to explore the repositories, if you want to know more visit me at [joh
 ### :notebook: Latest Blog Posts (In Portuguese)
 
 <!-- BLOG:START -->
+- [Construindo Layout 2.0](https://johnywalves.com.br/construindo-layout-2.0/)
 - [Web Links](https://johnywalves.com.br/weblinks/)
 - [Box Shadow](https://johnywalves.com.br/box-shadow/)
 - [HTML Started](https://johnywalves.com.br/html-started/)
 - [Letras pulando](https://johnywalves.com.br/letras-pulando/)
-- [React Hooks - Cheatsheet](https://johnywalves.com.br/react-hooks-cheatsheet/)
 <!-- BLOG:END -->
 
 <!--
