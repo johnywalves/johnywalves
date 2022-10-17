@@ -21,11 +21,11 @@ Feel free to explore the repositories, if you want to know more visit me at [joh
 ### :notebook: Latest Blog Posts (In Portuguese)
 
 <!-- BLOG:START -->
+- [Saindo da pandemia com saúde](https://johnywalves.com.br/saindo-da-pandemia/)
 - [Gráfico crescimento da População Mundial](https://johnywalves.com.br/graphic-world-population/)
 - [Magenta &quot;#e0138c&quot; na aplicação de SEO](https://johnywalves.com.br/seo-e0138c/)
 - [Gastby - Geração de miniaturas por contexto](https://johnywalves.com.br/opengraphimages-gastby/)
 - [Construindo o layout 2.0, refazendo esta página](https://johnywalves.com.br/construindo-layout-2.0/)
-- [Coleção de links para estudo e referências](https://johnywalves.com.br/weblinks/)
 <!-- BLOG:END -->
 
 <!--
