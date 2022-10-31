@@ -31,6 +31,11 @@ Feel free to explore the repositories, if you want to know more visit me at [joh
 ### :right_anger_bubble: Latest comics published (In Portuguese)
 
 <!-- COMIC:START -->
+- [Lidando com Erros](https://johnywalves.com.br/comic-25/)
+- [Felicitações](https://johnywalves.com.br/comic-24/)
+- [Apresentação](https://johnywalves.com.br/comic-23/)
+- [Definição de Pronto](https://johnywalves.com.br/comic-22/)
+- [Tentação](https://johnywalves.com.br/comic-21/)
 <!-- COMIC:END -->
 
 <!--
