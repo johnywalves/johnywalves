@@ -1,4 +1,4 @@
-### Hi, my name is Johny :wave:
+### Hi, my name is Johny W. Alves :wave:
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-ed34a2?style=flat-square&labelColor=ed34a2&logo=twitter&logoColor=white&link=https://twitter.com/johnywalves)](https://twitter.com/johnywalves)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-ed34a2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnywalves)](https://www.linkedin.com/in/johnywalves)
@@ -18,7 +18,7 @@ Feel free to explore the repositories, if you want to know more visit me at [joh
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-### :notebook: Latest Blog Posts (In Portuguese)
+### :notebook: Latest published articles (In Portuguese)
 
 <!-- BLOG:START -->
 - [Saindo da pandemia com saúde](https://johnywalves.com.br/saindo-da-pandemia/)
@@ -27,6 +27,11 @@ Feel free to explore the repositories, if you want to know more visit me at [joh
 - [Gastby - Geração de miniaturas por contexto](https://johnywalves.com.br/opengraphimages-gastby/)
 - [Construindo o layout 2.0, refazendo esta página](https://johnywalves.com.br/construindo-layout-2.0/)
 <!-- BLOG:END -->
+
+### :right_anger_bubble: Latest comics published (In Portuguese)
+
+<!-- COMIC:START -->
+<!-- COMIC:END -->
 
 <!--
 **johnywalves/johnywalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
