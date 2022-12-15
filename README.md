@@ -25,7 +25,7 @@ Feel free to explore the repositories, if you want to know more visit me at [joh
 - [Saindo da pandemia com saúde](https://johnywalves.com.br/saindo-da-pandemia/)
 - [Gráfico crescimento da População Mundial](https://johnywalves.com.br/graphic-world-population/)
 - [Magenta &quot;#e0138c&quot; na aplicação de SEO](https://johnywalves.com.br/seo-e0138c/)
-- [Gastby - Geração de miniaturas por contexto](https://johnywalves.com.br/opengraphimages-gastby/)
+- [JavaScript Array - Cheatsheet](https://johnywalves.com.br/javascript-array-cheatsheet/)
 <!-- BLOG:END -->
 
 ### :right_anger_bubble: Latest comics published (In Portuguese)
