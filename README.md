@@ -21,11 +21,11 @@ Feel free to explore the repositories, if you want to know more visit me at [joh
 ### :notebook: Latest published articles (In Portuguese)
 
 <!-- BLOG:START -->
+- [Construindo uma rede neural](https://johnywalves.com.br/construindo-uma-rede-neural/)
 - [Análise dos personagens Marvel](https://johnywalves.com.br/graphic-marvel-characters/)
 - [Saindo da pandemia com saúde](https://johnywalves.com.br/saindo-da-pandemia/)
 - [Gráfico crescimento da População Mundial](https://johnywalves.com.br/graphic-world-population/)
 - [Magenta &quot;#e0138c&quot; na aplicação de SEO](https://johnywalves.com.br/seo-e0138c/)
-- [JavaScript Array - Cheatsheet](https://johnywalves.com.br/javascript-array-cheatsheet/)
 <!-- BLOG:END -->
 
 ### :right_anger_bubble: Latest comics published (In Portuguese)
