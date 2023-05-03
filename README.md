@@ -4,25 +4,37 @@
 </div>
 -->
 
-### Hi, my name is Johny W. Alves :wave:
+### Hi, my name is **Johny W. Alves** :wave:
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-ed34a2?style=flat-square&labelColor=ed34a2&logo=twitter&logoColor=white&link=https://twitter.com/johnywalves)](https://twitter.com/johnywalves)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-ed34a2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnywalves)](https://www.linkedin.com/in/johnywalves)
-[![Personal Badge](https://img.shields.io/badge/-johnywalves.com.br-ed34a2?style=flat-square&logo=Gatsby&logoColor=white&link=https://www.johnywalves.com.br)](https://www.johnywalves.com.br)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-ed34a2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnywalves)](https://www.linkedin.com/in/johnywalves)
+[![Personal Badge](https://img.shields.io/badge/-johnywalves.com.br-ed34a2?style=for-the-badge&logo=Gatsby&logoColor=white&link=https://www.johnywalves.com.br)](https://www.johnywalves.com.br)
 
-You will find me on the web as **Johny W. Alves**, I am a passionate developer, student data scientist, runner a few times a week and PC player when over time
+You will find me on the web as **Johny W. Alves**, I am a passionate web developer, student data scientist, biker a few times a week and PC player when over time
 
 Feel free to explore the repositories, if you want to know more visit me at [johnywalves.com.br](https://johnywalves.com.br/)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=johnywalves&count_private=true&hide=issues&show_icons=true&theme=graywhite&title_color=ed34a2)](https://github.com/johnywalves)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=johnywalves&count_private=true&hide=issues&show_icons=true&theme=aura_dark&title_color=ed34a2)](https://github.com/johnywalves)
 
-### :wrench: Languages and Tools
+### Some skills
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<!-- https://github.com/Ileriayo/markdown-badges -->
+#### :wrench: Languages
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+#### :wrench: Frameworks, Libraries and Tools
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### :notebook: Latest published articles (In Portuguese)
 
