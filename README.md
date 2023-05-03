@@ -1,3 +1,7 @@
+<div style="width:100%;display:flex;justify-content:center;margin:0 0 20px;">
+    <img src="https://raw.githubusercontent.com/johnywalves/johnywalves/master/logo.png" style="width:60%;height:auto;" />
+</div>
+
 ### Hi, my name is Johny W. Alves :wave:
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-ed34a2?style=flat-square&labelColor=ed34a2&logo=twitter&logoColor=white&link=https://twitter.com/johnywalves)](https://twitter.com/johnywalves)
