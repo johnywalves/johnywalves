@@ -1,15 +1,13 @@
-<!--
 <div style="width:100%;display:flex;justify-content:center;margin:0 0 20px;opacity:0.9;">
     <img src="https://raw.githubusercontent.com/johnywalves/johnywalves/master/img/logo_github.svg" style="width:40%;height:auto;" />
 </div>
--->
 
 ## Olá! Meu nome é **Johny** :wave:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-ed34a2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnywalves)](https://www.linkedin.com/in/johnywalves)
 [![Personal Badge](https://img.shields.io/badge/-johnywalves.com.br-ed34a2?style=for-the-badge&logo=Gatsby&logoColor=white&link=https://www.johnywalves.com.br)](https://www.johnywalves.com.br)
 
-Você pode me achar na internet como **Johny W. Alves**, Sou um desenvolvedor Web apaixonado, estudando em ciência de dados, ciclista e algumas vezes jogo no Nintendo Switch quanto sobra um tempo
+Você pode me achar na internet como **Johny W. Alves**, sou um desenvolvedor apaixonado por front-end e interfaces, estudante em ciência de dados, ciclista  e algumas vezes jogo no Nintendo Switch quanto sobra um tempo
 
 Sinta-se a vontade para explorar os repositório
 
