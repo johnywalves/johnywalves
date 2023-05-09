@@ -1,5 +1,5 @@
-<div style="width:100%;display:flex;justify-content:center;margin:0 0 20px;opacity:0.9;">
-    <img src="https://raw.githubusercontent.com/johnywalves/johnywalves/master/img/logo_github.svg" style="width:40%;height:auto;" />
+<div style="width:100%;display:flex;justify-content:center;margin:0 0 20px;">
+    <img src="https://raw.githubusercontent.com/johnywalves/johnywalves/master/img/logo_github.svg" style="width:100%;height:auto;" />
 </div>
 
 ## Olá! Meu nome é **Johny** :wave:
