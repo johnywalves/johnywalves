@@ -1,24 +1,28 @@
 <!--
 <div style="width:100%;display:flex;justify-content:center;margin:0 0 20px;opacity:0.9;">
-    <img src="https://raw.githubusercontent.com/johnywalves/johnywalves/master/logo.png" style="width:40%;height:auto;" />
+    <img src="https://raw.githubusercontent.com/johnywalves/johnywalves/master/img/logo_github.svg" style="width:40%;height:auto;" />
 </div>
 -->
 
-### Hi, my name is **Johny W. Alves** :wave:
+## Olá! Meu nome é **Johny** :wave:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-ed34a2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnywalves)](https://www.linkedin.com/in/johnywalves)
 [![Personal Badge](https://img.shields.io/badge/-johnywalves.com.br-ed34a2?style=for-the-badge&logo=Gatsby&logoColor=white&link=https://www.johnywalves.com.br)](https://www.johnywalves.com.br)
 
-You will find me on the web as **Johny W. Alves**, I am a passionate web developer, student data scientist, biker a few times a week and PC player when over time
+Você pode me achar na internet como **Johny W. Alves**, Sou um desenvolvedor Web apaixonado, estudando em ciência de dados, ciclista e algumas vezes jogo no Nintendo Switch quanto sobra um tempo
 
-Feel free to explore the repositories, if you want to know more visit me at [johnywalves.com.br](https://johnywalves.com.br/)
+Sinta-se a vontade para explorar os repositório
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=johnywalves&count_private=true&hide=issues&show_icons=true&theme=aura_dark&title_color=ed34a2)](https://github.com/johnywalves)
 
-### Some skills
+Também pode me visitar em [johnywalves.com.br](https://johnywalves.com.br/)
+
+## Algumas habilidades
+
+Gosto de trabalhar com certas tecnologias, que habitam meu coração
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
-#### :wrench: Languages
+### :wrench: Linguagens e Supersets
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,7 +30,7 @@ Feel free to explore the repositories, if you want to know more visit me at [joh
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-#### :wrench: Frameworks, Libraries and Tools
+### :wrench: Frameworks, Bibliotecas e Ferramentas
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -36,17 +40,21 @@ Feel free to explore the repositories, if you want to know more visit me at [joh
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-### :notebook: Latest published articles (In Portuguese)
+## Algumas produções
+
+Gosto bastante de gerar conhecimento e produzir para web, confira os [artigos](https://johnywalves.com.br/blog/), as [tirinhas](https://johnywalves.com.br/comics/) e [projetos pessoais](https://johnywalves.com.br/projects/)
+
+### :notebook: Últimos artigos publicados
 
 <!-- BLOG:START -->
+- [Relação de bilheterias em filmes de ação](https://johnywalves.com.br/box-office-filmes-acao/)
 - [Automação de screenshot com Puppeteer](https://johnywalves.com.br/puppeteer-screenshot/)
 - [Construindo uma rede neural](https://johnywalves.com.br/construindo-uma-rede-neural/)
 - [Análise dos personagens Marvel](https://johnywalves.com.br/graphic-marvel-characters/)
 - [Saindo da pandemia com saúde](https://johnywalves.com.br/saindo-da-pandemia/)
-- [Gráfico crescimento da População Mundial](https://johnywalves.com.br/graphic-world-population/)
 <!-- BLOG:END -->
 
-### :right_anger_bubble: Latest comics published (In Portuguese)
+### :right_anger_bubble: Últimas tirinhas publicadas
 
 <!-- COMIC:START -->
 - [Escrito por ChatGPT](https://johnywalves.com.br/comic-27/)
