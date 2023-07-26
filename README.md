@@ -55,11 +55,11 @@ Gosto bastante de gerar conhecimento e produzir para web, confira os [artigos](h
 ### :right_anger_bubble: Últimas tirinhas publicadas
 
 <!-- COMIC:START -->
+- [Motivação Criativa](https://johnywalves.com.br/comic-28/)
 - [Escrito por ChatGPT](https://johnywalves.com.br/comic-27/)
 - [Análise profissional](https://johnywalves.com.br/comic-26/)
 - [Lidando com Erros](https://johnywalves.com.br/comic-25/)
 - [Felicitações](https://johnywalves.com.br/comic-24/)
-- [Apresentação](https://johnywalves.com.br/comic-23/)
 <!-- COMIC:END -->
 
 <!--
