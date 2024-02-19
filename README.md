@@ -7,9 +7,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-ed34a2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnywalves)](https://www.linkedin.com/in/johnywalves)
 [![Personal Badge](https://img.shields.io/badge/-johnywalves.com.br-ed34a2?style=for-the-badge&logo=Gatsby&logoColor=white&link=https://www.johnywalves.com.br)](https://www.johnywalves.com.br)
 
-Você pode me achar na internet como **Johny W. Alves**, sou um desenvolvedor apaixonado por front-end e interfaces, estudante em ciência de dados, ciclista  e algumas vezes jogo no Nintendo Switch quanto sobra um tempo
+Você pode me achar na internet como **Johny W. Alves**, sou um desenvolvedor apaixonado por front-end e interfaces, estudante em ciência de dados, amante de patins e bicicleta, pai de uma menina linda e algumas vezes jogador de Nintendo Switch
 
-Sinta-se a vontade para explorar os repositório
+Sinta-se a vontade para explorar alguns repositórios
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=johnywalves&count_private=true&hide=issues&show_icons=true&theme=aura_dark&title_color=ed34a2)](https://github.com/johnywalves)
 
