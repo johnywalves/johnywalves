@@ -45,11 +45,11 @@ Gosto bastante de gerar conhecimento e produzir para web, confira os [artigos](h
 ### :notebook: Últimos artigos publicados
 
 <!-- BLOG:START -->
+- [Checkbox estilizado com HTML e CSS puro](https://johnywalves.com.br/input-checkbox-personalizado/)
 - [2023 - Curas e reflexões de um ano estranho](https://johnywalves.com.br/2023-ano-curas-reflexoes/)
 - [Animação para esqueleto de elementos](https://johnywalves.com.br/estilizacao-skeleton/)
 - [Entendendo tags e gerando formas em SVG](https://johnywalves.com.br/entendo-tags-desenhando-formas-svg/)
 - [Relação de bilheterias em filmes de ação](https://johnywalves.com.br/box-office-filmes-acao/)
-- [Automação de screenshot com Puppeteer](https://johnywalves.com.br/puppeteer-screenshot/)
 <!-- BLOG:END -->
 
 ### :right_anger_bubble: Últimas tirinhas publicadas
