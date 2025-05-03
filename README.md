@@ -45,11 +45,11 @@ Gosto bastante de gerar conhecimento e produzir para web, confira os [artigos](h
 ### :notebook: Últimos artigos publicados
 
 <!-- BLOG:START -->
+- [Servidor em casa - Centralize dados e aplicações com facilidade](https://johnywalves.com.br/home-server/)
 - [Reflexões e Metas para 2025](https://johnywalves.com.br/2025-pensamentos-e-conquistas/)
 - [Gráfico de setores &lpar;pizza&rpar; em D3.js](https://johnywalves.com.br/grafico-setores-pizza-d3/)
 - [Rotas Apache - Como funciona o .htaccess](https://johnywalves.com.br/como-funciona-htaccess/)
 - [Checkbox estilizado com HTML e CSS puro](https://johnywalves.com.br/input-checkbox-personalizado/)
-- [2023 - Curas e reflexões de um ano estranho](https://johnywalves.com.br/2023-ano-curas-reflexoes/)
 <!-- BLOG:END -->
 
 ### :right_anger_bubble: Últimas tirinhas publicadas
