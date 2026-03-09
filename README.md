@@ -13,7 +13,7 @@ Feel free to explore my repositories.
 
 You can also visit me at [johnywalves.com.br](https://johnywalves.com.br/)
 
-## Algumas habilidades
+## Core Skills
 
 I love working with certain technologies that have a special place in my heart.
 
