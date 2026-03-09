@@ -9,9 +9,7 @@
 
 Você pode me achar na internet como **Johny W. Alves**, sou um desenvolvedor apaixonado por front-end e interfaces, estudante em ciência de dados, amante de patins e bicicleta, pai de uma menina linda e algumas vezes jogador de Nintendo Switch
 
-Sinta-se a vontade para explorar alguns repositórios
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=johnywalves&count_private=true&hide=issues&show_icons=true&theme=aura_dark&title_color=ed34a2)](https://github.com/johnywalves)
+Sinta-se à vontade para explorar alguns repositórios
 
 Também pode me visitar em [johnywalves.com.br](https://johnywalves.com.br/)
 
