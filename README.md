@@ -7,9 +7,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-ed34a2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnywalves)](https://www.linkedin.com/in/johnywalves)
 [![Personal Badge](https://img.shields.io/badge/-johnywalves.com.br-ed34a2?style=for-the-badge&logo=Gatsby&logoColor=white&link=https://www.johnywalves.com.br)](https://www.johnywalves.com.br)
 
-You can find me online as **Johny W. Alves**. I'm a developer passionate about front-end and interfaces, a data science student, rollerblading and biking enthusiast, father to a beautiful girl, and occasional Nintendo Switch player.
+You can find me online as **Johny W. Alves**. I'm a developer passionate about front-end and interfaces, a data science student, rollerblading and biking enthusiast, father to a beautiful girl, and an occasional Nintendo Switch player.
 
-Feel free to explore my repositories. Também pode me visitar em [johnywalves.com.br](https://johnywalves.com.br/)
+Feel free to explore my repositories.
+
+You can also visit me at [johnywalves.com.br](https://johnywalves.com.br/)
 
 ## Algumas habilidades
 
@@ -33,7 +35,7 @@ I love working with certain technologies that have a special place in my heart.
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-## Algumas produções
+## My Work
 
 I really enjoy creating knowledge and building for the web. Check out my [articles](https://johnywalves.com.br/blog/), [comics](https://johnywalves.com.br/comics/), and [personal projects](https://johnywalves.com.br/projects/).
 
