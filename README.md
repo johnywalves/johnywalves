@@ -2,23 +2,20 @@
     <img src="https://raw.githubusercontent.com/johnywalves/johnywalves/master/img/logo_github.svg" style="width:100%;height:auto;" />
 </div>
 
-## Olá! Meu nome é **Johny** :wave:
+## Hello! My name is **Johny** :wave:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-ed34a2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnywalves)](https://www.linkedin.com/in/johnywalves)
 [![Personal Badge](https://img.shields.io/badge/-johnywalves.com.br-ed34a2?style=for-the-badge&logo=Gatsby&logoColor=white&link=https://www.johnywalves.com.br)](https://www.johnywalves.com.br)
 
-Você pode me achar na internet como **Johny W. Alves**, sou um desenvolvedor apaixonado por front-end e interfaces, estudante em ciência de dados, amante de patins e bicicleta, pai de uma menina linda e algumas vezes jogador de Nintendo Switch
+You can find me online as **Johny W. Alves**. I'm a developer passionate about front-end and interfaces, a data science student, rollerblading and biking enthusiast, father to a beautiful girl, and occasional Nintendo Switch player.
 
-Sinta-se à vontade para explorar alguns repositórios
-
-Também pode me visitar em [johnywalves.com.br](https://johnywalves.com.br/)
+Feel free to explore my repositories. Também pode me visitar em [johnywalves.com.br](https://johnywalves.com.br/)
 
 ## Algumas habilidades
 
-Gosto de trabalhar com certas tecnologias, que habitam meu coração
+I love working with certain technologies that have a special place in my heart.
 
-<!-- https://github.com/Ileriayo/markdown-badges -->
-### :wrench: Linguagens e Supersets
+### :wrench: Languages & Supersets
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,7 +23,7 @@ Gosto de trabalhar com certas tecnologias, que habitam meu coração
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### :wrench: Frameworks, Bibliotecas e Ferramentas
+### :wrench: Frameworks, Libraries & Tools
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -38,9 +35,9 @@ Gosto de trabalhar com certas tecnologias, que habitam meu coração
 
 ## Algumas produções
 
-Gosto bastante de gerar conhecimento e produzir para web, confira os [artigos](https://johnywalves.com.br/blog/), as [tirinhas](https://johnywalves.com.br/comics/) e [projetos pessoais](https://johnywalves.com.br/projects/)
+I really enjoy creating knowledge and building for the web. Check out my [articles](https://johnywalves.com.br/blog/), [comics](https://johnywalves.com.br/comics/), and [personal projects](https://johnywalves.com.br/projects/).
 
-### :notebook: Últimos artigos publicados
+### :notebook: Latest Articles
 
 <!-- BLOG:START -->
 - [Servidor em casa - Centralize dados e aplicações com facilidade](https://johnywalves.com.br/home-server/)
@@ -50,7 +47,7 @@ Gosto bastante de gerar conhecimento e produzir para web, confira os [artigos](h
 - [Checkbox estilizado com HTML e CSS puro](https://johnywalves.com.br/input-checkbox-personalizado/)
 <!-- BLOG:END -->
 
-### :right_anger_bubble: Últimas tirinhas publicadas
+### :right_anger_bubble: Latest Comics
 
 <!-- COMIC:START -->
 - [Alegria matinal 2](https://johnywalves.com.br/comic-30/)
@@ -59,20 +56,3 @@ Gosto bastante de gerar conhecimento e produzir para web, confira os [artigos](h
 - [Escrito por ChatGPT](https://johnywalves.com.br/comic-27/)
 - [Análise profissional](https://johnywalves.com.br/comic-26/)
 <!-- COMIC:END -->
-
-<!--
-**johnywalves/johnywalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnywalves&layout=compact&title_color=ed34a2)](https://github.com/johnywalves)
--->
